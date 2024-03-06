@@ -1,0 +1,82 @@
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.user-icon{
+  margin-left: 800px;
+  color: white !important;
+  font-size: larger;
+}
+
+.search-icon{
+  margin-left: 8px;
+  color: white !important;
+  font-size: larger;
+}
+
+.btn{
+  color: white;
+  text-decoration: none !important;
+}
+
+.navbar{
+margin-bottom: 5px;
+  height: 80px;
+  border-radius: 50px;
+ margin-top: 0%;
+ background-color:white;
+}
+
+.navbar-brand{
+  font-size:xx-large;
+  color:black;
+}
+.navbar-brand img{
+  height: 50px;
+  margin-bottom: 20px;
+
+  
+}
+
+.btn{
+  color: #000;
+  
+}
+
+.btn-icon{
+  font-size: large;
+  color: #000;
+  margin: 10px ;
+  text-decoration: none !important;
+}
+
+.btn-serach{
+  font-size: large;
+  color: #000;
+  margin: 10px ;
+  text-decoration: none !important;
+
+}
+
+
+
+
+.btn:hover{
+  color:darkgoldenrod !important ;
+}
+.nav-link{
+  color: #000000;
+  margin: 0px;
+   
+  
+}
+.nav-link:hover{
+ color: darkgoldenrod !important;
+ font-size: larger;
+}
+

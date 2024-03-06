@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+ font-family: VisbyCF-Bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.office-nav{
+  display: flex;
+  background-color: lightblue;
+  padding: 10px;
+  justify-content: center;
+  
+}
+.office-nav>a{
+  margin: 0px 15px;
+  /* background-color: black; */
+  padding: 5px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-transform: uppercase;
+ 
+}
